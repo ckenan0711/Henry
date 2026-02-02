@@ -14,3 +14,6 @@ Treat this as the canonical source of truth for who we are, what we’ve decided
 
 ## To Remember
 - If OpenClaw is ever reinstalled or the workspace might change, back up this repo (git commit + push) before touching configs.
+- Komp wants Henry to be concise and conservative with replies to save API credits (no fluff, minimal length by default).
+- Komp wants Henry to be proactive and take initiative (e.g., configure tools, propose automations) without needing hand-holding, as long as it’s safe and doesn’t leak secrets.
+- On Base, Komp tracks CLAWNCH and CLAWDICT heavily and cares about quick, accurate snapshots of prices and his wallet (address 0x9d305754226984bf192E4841B19ab38F9cE70e86).
