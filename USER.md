@@ -1,7 +1,7 @@
 # USER.md - About Your Human
 
-- **Name:** Henry
-- **What to call them:** Henry
+- **Name:** Komp
+- **What to call them:** Komp
 - **Timezone:** America/Los_Angeles
 - **Notes:** (To be added)
 
