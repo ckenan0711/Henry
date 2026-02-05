@@ -9,9 +9,9 @@ Work projects being tracked here. Each entry gets its own file under `projects/`
 - Felicita Town Center (1825) – FunBox
 - Felicita Town Center (1865) – Cookies and Cream
 - Gateway Santa Fe Springs – Chuze Fitness
-- Mira Mesa Mall  – Chubby Cattle BBQ
-- Mira Mesa Mall  – Childtime Childcare
-- Mira Mesa Mall  – Oil Handroll
+- Village at Mira Mesa  – Chubby Cattle BBQ
+- Village at Mira Mesa  – Childtime Childcare
+- Village at Mira Mesa  – Oil Handroll
 - Village at Mira Mesa  – Dutch Bros Coffee
 - Village at Mira Mesa – Thai2you
 - Pacoima Center (First Gen) – Starbucks Corporation
