@@ -5,3 +5,7 @@
 
 - Tenant opened for business on 2026-01-26.
 
+## 2026-02-06
+- Aspire reports no issues. No hang ups. All inspections passed. Waiting on city CO. Grand opening March 22.
+- Tenant opened business 2026-01-26.
+
