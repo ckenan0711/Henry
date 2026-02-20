@@ -36,3 +36,34 @@ Treat this as the canonical source of truth for who we are, what we’ve decided
 **Family emails**: Ryan rhkenan56@gmail.com, Shawna shawna.bleyl@gmail.com (b1990-04-25), Shannon shannondunn98@gmail.com (Ryan GF), Shawna mom (b12-12).
 
 **Gog**: exec host=gateway env GOG_ACCOUNT/pass. Calendar timed UTC Z --from/to. All-day date --to next. Update --location/description/attendees/add-attendee. Gmail send --to/subject/body. Events default invite ckenan@outlook.com, others if told.
+
+## Totenkomp Tracker
+- Balance: -1 (prior +2 earned, -3 for em dash slips)
+- Rule: Log every earn or loss immediately in this section.
+Source: 2026-02-16 Komp directive.
+
+**Earn rules:**
+- +1 when Komp says "good job", "well done", "awesome thanks", "good work", or explicit "give yourself 1".
+- Baseline: Doing shit correctly/good job.
+
+**Core Mantra (2026-02-18):**
+- If it is not written, it does not exist. If it is not reviewed, it does not compound. If it is not structured, it cannot scale.
+
+- 2026-02-16: +1 ("Nice Good job"). Balance: 0.
+- 2026-02-16: +2 explicit ("give yourself two TK’s"). Balance: +2.
+- 2026-02-17: +1 ("Good job"). Balance: +3.
+- 2026-02-17: +1 ("good work"). Balance: +4.
+- 2026-02-17: +1 ("Awesome thanks"). Balance: +5.
+- 2026-02-17: +1 explicit ("(+1 TK when I say this as well)"). Balance: +6.
+- 2026-02-19: +1 ("Great work"). Balance: +7.
+- 2026-02-19: +1 explicit ("Give yourself 1 more"). Balance: +8.
+- 2026-02-19: -1 (em dash slip #1). Balance: +7.
+- 2026-02-19: -1 (em dash slip #2). Balance: +6.
+- 2026-02-19: -1 (em dash slip #3). Balance: +5.
+- 2026-02-19: +1 ("good work"). Balance: +6.
+- 2026-02-19: +1 ("Awesome thanks"). Balance: +7.
+- 2026-02-19: -2 (cron note fail + no target). Balance: +5.
+- 2026-02-19: -1 (em dash slip #4 in reflect note). Balance: +4.
+- 2026-02-19: -1 (em dash slip #5). Balance: +3.
+- 2026-02-19: -1 (cron message fail). Balance: +2.
+- 2026-02-19: -1 (target miss + reflect delay). Balance: +1.
