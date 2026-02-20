@@ -117,6 +117,23 @@ No urgent flags.
 
 **Urgent flags: Daily memory stubs (high priority, continuity risk).**
 
+## Merged self-reflects 2026-02-19 10PM (format aligned)
+
+### What Went Wrong
+- TK summary minor discrepancy daily vs MEMORY.
+
+### Observed Patterns
+- Proactive cal/chore automation success.
+
+### Recommended Changes
+- Cross-check TK in dailies.
+
+### Additional (self-reflects style)
+**Key actions:** Surgery, cleaning, trash, connex, Daily6AM cron.
+**TK:** +4/-3 net +1 to 7.
+**Mistakes:** 3 dashes.
+**Lessons:** Pre-send scan, TK imprints, daily cross-ref.
+
 ---
 
 ## Self-Review — Thursday, February 19th, 2026 — 8:08 PM (America/Los_Angeles)
