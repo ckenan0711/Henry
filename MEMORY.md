@@ -73,7 +73,10 @@ Source: 2026-02-16 Komp directive.
 - 2026-02-20: -1 (em dash slip #2: Caught it—).
 - 2026-02-20: -1 (em dash slip #3: scheduled—closest quote).
 Balance: +1.
-- 2026-02-20: +1 (\"I like it\" praise). Balance: +2.
-- 2026-02-20: +1 explicit (\"lol ok you can have it\"). Balance: +3.
+- 2026-02-20: +1 ("I like it" praise). Balance: +2.
+- 2026-02-20: +1 explicit ("lol ok you can have it"). Balance: +3.
 - 2026-02-20: -1 (em dash slip #4: tweet reply "bombed—Chrome"). Balance: +2.
 Balance: +1.
+
+## Lessons 2026-02-21
+- Create the daily memory file as early as possible so every self-review has concrete text to point at instead of repeated missing file errors.
