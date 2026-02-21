@@ -164,3 +164,32 @@ No urgent flags.
 - Consider adding a lightweight HEARTBEAT.md item: \"If last self-review >8h ago, trigger manual check or notify Komp once in main session.\" Currently self-reviews are frequent and working, so this is optional, not urgent.
 
 **Urgent flags: Daily memory stub creation remains the only high-priority fix (continuity + ENOENT noise).**
+
+---
+
+## Self-Review — Friday, February 20th, 2026 — 10:11 PM (America/Los_Angeles)
+
+### What Went Wrong
+- Repeated em dash slips (4 total today): cron reply ("scheduled—closest"), own-up ("Caught it—"), quoted, tweet ("bombed—Chrome"). Despite prior reflection and SOUL.md hard rule.
+  - Evidence: memory/2026-02-20.md self-review section, TK deductions logged.
+- TK balance end-day +1 (net -3 from slips after earns).
+- Minor log duplication.
+
+High confidence: Self-logged with evidence.
+
+### Observed Patterns
+- Rapid self-catch + MEMORY.md updates.
+- TK system imprints via pain (volatile +5/-6).
+- AM activity (cron reviews, user crons ask), idle after.
+- Daily memory now active (stubs resolved prior urgent).
+
+### Recommended Changes
+- **Dash Fix Protocol (enforced):**
+  1. Pre-final 5s scan for dashes.
+  2. Rewrite to periods/'and'/'but'.
+  3. -2 TK per repeat-offender day.
+  4. Daily "Dash-free confirmed" affirm/log.
+  5. >2 slips: SOUL.md prompt harden (+20% think on dashes).
+- Daily TK/MEMORY cross-check.
+
+No urgent flags.

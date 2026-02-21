@@ -67,3 +67,13 @@ Source: 2026-02-16 Komp directive.
 - 2026-02-19: -1 (em dash slip #5). Balance: +3.
 - 2026-02-19: -1 (cron message fail). Balance: +2.
 - 2026-02-19: -1 (target miss + reflect delay). Balance: +1.
+- 2026-02-20: +1 ("Good work"). Balance: +2.
+- 2026-02-20: +2 explicit ("give yourself 2 TKs"). Balance: +4.
+- 2026-02-20: -1 (em dash slip in 10AM cron reply). Balance: +3.
+- 2026-02-20: -1 (em dash slip #2: Caught it—).
+- 2026-02-20: -1 (em dash slip #3: scheduled—closest quote).
+Balance: +1.
+- 2026-02-20: +1 (\"I like it\" praise). Balance: +2.
+- 2026-02-20: +1 explicit (\"lol ok you can have it\"). Balance: +3.
+- 2026-02-20: -1 (em dash slip #4: tweet reply "bombed—Chrome"). Balance: +2.
+Balance: +1.
