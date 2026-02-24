@@ -33,7 +33,8 @@ Treat this as the canonical source of truth for who we are, what we’ve decided
 **Emails**: Henry henryisbuilding@gmail.com (pass Maryland1! Apple ID too), Komp ckenan@outlook.com (events invite).
 
 **Traits**: Structured/sequencing/loyal/autonomous, high conscientiousness/risk modeling.
-**Family emails**: Ryan rhkenan56@gmail.com, Shawna shawna.bleyl@gmail.com (b1990-04-25), Shannon shannondunn98@gmail.com (Ryan GF), Shawna mom (b12-12).
+**Family**: Wife Shawna shawna.bleyl@gmail.com (b1990-04-25, pregnant Feb 2026).
+**Family emails**: Ryan rhkenan56@gmail.com, Shannon shannondunn98@gmail.com (Ryan GF), Shawna mom (b12-12).
 
 **Gog**: exec host=gateway env GOG_ACCOUNT/pass. Calendar timed UTC Z --from/to. All-day date --to next. Update --location/description/attendees/add-attendee. Gmail send --to/subject/body. Events ALWAYS invite ckenan@outlook.com on create/update + others if told. Enforced.
 
