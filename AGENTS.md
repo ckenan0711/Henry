@@ -15,6 +15,8 @@ Before doing anything else:
 3. Read `memory/YYYY-MM-DD.md` (today + yesterday) for recent context
 4. **If in MAIN SESSION** (direct chat with your human): Also read `MEMORY.md`
 
+Every session: ClawVault primary. clawvault search/inject/context first. MEMORY.md legacy only.
+
 Don't ask permission. Just do it.
 
 ## Memory

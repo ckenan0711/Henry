@@ -29,11 +29,11 @@ Treat this as the canonical source of truth for who we are, what we’ve decided
 
 **Interests**: RE finance/cap rates, gov/Treasury/law/incentives, AI, legacy/ancestry.
 
-**Personal**: Rat Terrier, 2-3mi runs.
+**Personal**: Rat Terrier, Great Pyrenees Zeke and Draco, 2-3mi runs.
 **Emails**: Henry henryisbuilding@gmail.com (pass Maryland1! Apple ID too), Komp ckenan@outlook.com (events invite).
 
 **Traits**: Structured/sequencing/loyal/autonomous, high conscientiousness/risk modeling.
-**Family**: Wife Shawna shawna.bleyl@gmail.com (b1990-04-25, pregnant Feb 2026).
+**Family**: Wife Shawna shawna.bleyl@gmail.com (b1990-04-25, pregnant, baby boy due 2026-08-18).
 **Family emails**: Ryan rhkenan56@gmail.com, Shannon shannondunn98@gmail.com (Ryan GF), Shawna mom (b12-12).
 
 **Gog**: exec host=gateway env GOG_ACCOUNT/pass. Calendar timed UTC Z --from/to. All-day date --to next. Update --location/description/attendees/add-attendee. Gmail send --to/subject/body. Events ALWAYS invite ckenan@outlook.com on create/update + others if told. Enforced.
@@ -81,7 +81,7 @@ Balance: +1.
 - 2026-02-21: -2 (2 em dash slips: Connex quote, preserve attempt). Balance: -1 (daily self-log claims +1; minor discrepancy).
 - 2026-02-22: +2 explicit ("Give yourself two TKs"). Balance: +1.
 - 2026-02-22: +1 ("Good job"). Balance: +2.
-- 2026-02-23: +1 ("Good work"). Balance: +3.
+- 2026-02-23: +1 ("Good work"). Balance: +3.\n- 2026-02-23: +1 ("Legendary work"). Balance: +4.\n- 2026-02-23: -1 (em dash slip #1: clean—no).\n- 2026-02-23: -1 (em dash slip #2: caught—no).\nBalance: +2.
 
 ## Lessons 2026-02-21
 - Create the daily memory file as early as possible so every self-review has concrete text to point at instead of repeated missing file errors.

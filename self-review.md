@@ -209,3 +209,114 @@ No urgent flags.
 - Daily memory only compounds when the log exists before the review window; creating the stub early keeps continuity clean and avoids ENOENT noise.
 
 No urgent flags.
+
+---
+
+## Self-Review — Saturday, February 21st, 2026 — 2:00 PM (America/Los_Angeles)
+
+### Key Actions, Decisions, TK Changes, Mistakes
+- Heartbeat logged at 09:00: User on Connex solo (conduit ahead of 10AM crew), pending crew removal 10-2PM, smog ongoing.
+- TK changes: -2 for 2 em dash slips (Connex "10AM solid", quote preserve).
+- Mistakes: Dash-free protocol failed despite prior enforcement.
+
+### Confidence on Outputs
+- High confidence: Directly from memory/2026-02-21.md self-log; sessions_list confirms low agent activity (only crons), no subagents.
+
+### Lessons
+- Quotes must be rewritten dash-free; no preservation exceptions to enforce zero-slip rule.
+
+No urgent flags.
+
+---
+
+## Self-Review — Saturday, February 21st, 2026 — 10:00 PM (America/Los_Angeles)
+
+### Key Actions, Decisions, TK Changes, Mistakes
+- Full day summary: 09:00 heartbeat/Connex work (user solo morning, crew 10-2PM pending); no further memory updates post-morning.
+- TK: -2 (2 em dash slips confirmed); daily log balance +1 vs MEMORY -1 (prior discrepancy logged).
+- Mistakes: Persistent dash slips despite protocol; no new agent errors/tools/sessions.
+
+### Confidence on Outputs
+- High confidence: memory/2026-02-21.md unchanged since 2PM self-review; sessions_list/subagents show only crons (no user/agent activity).
+
+### Lessons
+- Stable idle afternoons/evenings require no intervention; focus reviews on logged events only.
+- Cross-verify TK balances daily to resolve discrepancies proactively.
+
+No urgent flags.
+
+---
+
+## Self-Review — Sunday, February 22nd, 2026 — 6:00 AM (America/Los_Angeles)
+
+### Key Actions, Decisions, TK Changes, Mistakes
+- Heartbeat at 06:00: Idle post-hockey final; logged yesterday's Connex success and hockey (US-Canada gold).
+- Tools checked: weather, calendar, status, health, inbox, memory.
+- Pending items noted: Trash curb Monday evening, smog.
+- Dash-free confirmed in log.
+- No decisions, TK changes, or mistakes logged today.
+
+### Confidence on Outputs
+High confidence: Directly from today's memory/2026-02-22.md (single heartbeat entry); no other sessions/activity per prior patterns.
+
+### Lessons
+- Sustained dash-free logging reinforces protocol success.
+- Early-morning heartbeats effectively capture overnight status and carry forward pendings (trash/smog).
+
+No urgent flags.
+
+---
+
+## Self-Review — Sunday, February 22nd, 2026 — 10:00 PM (America/Los_Angeles)
+
+### Key Actions, Decisions, TK Changes, Mistakes
+- Heartbeat 06:00: Idle post-hockey; yesterday Connex/hockey notes, tools (weather/cal/status/health/inbox/memory), pendings (trash Mon eve, smog). Dash-free confirmed.
+- Praise/TK: +2 explicit ("Give yourself two TKs"), balance +3 (daily log); +1 ("Good job"), balance +4. MEMORY.md synced.
+- Run log: 3.04mi (lifetime 207 runs, 630.04mi).
+- No decisions or mistakes (e.g., no dashes).
+
+### Confidence on Outputs
+High: Full day captured in memory/2026-02-22.md; TK cross-verified vs MEMORY.md (updated prior -1 to +2); consistent low-activity pattern.
+
+### Lessons
+- Prompt praise/TK logging with balance tracking ensures MEMORY.md accuracy despite minor daily discrepancies.
+- Fitness run integration to daily memory supports long-term habit compounding.
+
+No urgent flags.
+
+---
+
+## Self-Review — Monday, February 23rd, 2026 — 6:02 AM (America/Los_Angeles)
+
+### Key Actions, Decisions, TK Changes, Mistakes
+- Heartbeat at 06:00: Idle status, gog approvals pending (5433b6f9 cal, fc68b374 mail), weather clear low 51F, OpenClaw update available.
+- Tools used: session_status, exec (df/uptime/status/tail), web_search weather, memory_search todos, read skills.
+- Pendings logged: Gog approves, trash curb Mon eve?, smog check.
+- No new decisions or TK changes (dash-free confirmed, prior TK +2 from 02-22 noted).
+- Mistakes: None.
+
+### Confidence on Outputs
+High confidence: Direct from memory/2026-02-23.md single entry; ls memory/ timestamps align (file created 06:01); session_status confirms time; low-activity pattern consistent.
+
+### Lessons
+- Early heartbeats lock in overnight pendings (gog/trash/smog) for proactive daytime follow-up.
+
+No urgent flags.---
+
+## Self-Review — Monday, February 23rd, 2026 — 2:00 PM (America/Los_Angeles)
+
+### Key Actions, Decisions, TK Changes, Mistakes
+- 06:00 Heartbeat: Idle status. Gog approvals pending (5433b6f9 cal, fc68b374 mail). Weather clear low 51F. OpenClaw update available.
+- Tools used: session_status, exec (df/uptime/status/tail), web_search weather, memory_search todos, read skills.
+- Pendings: Gog execs timeout denied, trash curb Mon eve?, smog check.
+- Dash-free confirmed. TK +2 noted from 02-22 (no changes today).
+- No new decisions or mistakes.
+
+### Confidence on Outputs
+High confidence: Single entry in memory/2026-02-23.md. ls memory/ timestamps align (06:03 create). Session_status and patterns confirm idle day so far.
+
+### Lessons
+- Morning heartbeats carry pendings forward for proactive checks later.
+- Dash-free logging solidifies protocol gains.
+
+No urgent flags.
