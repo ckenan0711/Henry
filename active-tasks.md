@@ -3,7 +3,7 @@
 1-2/night post-work. Updated 2026-02-23.
 
 ## Tonight's Suggests
-- Trash to curb at 6pm (reminder soon)
+- Downstairs WiFi (in progress)
 
 ## Backlog
 ### High Pri
@@ -16,6 +16,7 @@
 - 
 
 ## Done Log
+- Trash to curb (2026-02-23)
 
 ## Notes
 - Shop: 1500sqft metal bldg downhill
@@ -30,5 +31,6 @@
 7. Bigger outdoor tools to goat shed (1h)
 8. Remove tape in shop w/ scissor lift (1h)
 9. Take pictures of the bungalow and get it listed on furnished finders (1h) - Shawna
+10. Downstairs WiFi (1h est, in progress 2026-02-23)
 
-Total est: 9.3h
+Total est: 10.3h
