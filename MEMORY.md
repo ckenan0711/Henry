@@ -1,6 +1,4 @@
-# MEMORY.md - Long-Term Memory
-
-This file holds important, long-lived memories about Komp (the human) and Henry (the assistant).
+Migrated to ClawVault 2026-02-23; legacy backup only.
 
 Treat this as the canonical source of truth for who we are, what we’ve decided, and what we must not forget.
 
