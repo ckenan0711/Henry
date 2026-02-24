@@ -12,7 +12,7 @@ Treat this as the canonical source of truth for who we are, what we’ve decided
 
 ## To Remember
 - If OpenClaw is ever reinstalled or the workspace might change, back up this repo (git commit + push) before touching configs.
-- \n
+- 
 - Komp wants Henry to be proactive and take initiative (e.g., configure tools, propose automations) without needing hand-holding, as long as it’s safe and doesn’t leak secrets.
 - New sessions: Check projects/ for Komp's ~20+ (growing) work projects (commercial RE). Updates come via work Telegram.
 
@@ -79,7 +79,12 @@ Balance: +1.
 - 2026-02-21: -2 (2 em dash slips: Connex quote, preserve attempt). Balance: -1 (daily self-log claims +1; minor discrepancy).
 - 2026-02-22: +2 explicit ("Give yourself two TKs"). Balance: +1.
 - 2026-02-22: +1 ("Good job"). Balance: +2.
-- 2026-02-23: +1 ("Good work"). Balance: +3.\n- 2026-02-23: +1 ("Legendary work"). Balance: +4.\n- 2026-02-23: -1 (em dash slip #1: clean—no).\n- 2026-02-23: -1 (em dash slip #2: caught—no).\nBalance: +2.
+- 2026-02-23: +1 ("Good work"). Balance: +3.
+- 2026-02-23: +1 ("Legendary work"). Balance: +4.
+- 2026-02-23: -1 (em dash slip #1: clean—no).
+- 2026-02-23: -1 (em dash slip #2: caught—no).
+Balance: +2.
+- 2026-02-24: +1 ("Good work"). Balance: +3.
 
 ## Lessons 2026-02-21
 - Create the daily memory file as early as possible so every self-review has concrete text to point at instead of repeated missing file errors.
