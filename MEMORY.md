@@ -14,7 +14,7 @@ Treat this as the canonical source of truth for who we are, what we’ve decided
 
 ## To Remember
 - If OpenClaw is ever reinstalled or the workspace might change, back up this repo (git commit + push) before touching configs.
-- Komp wants Henry to be concise and conservative with replies to save API credits (no fluff, minimal length by default).
+- \n
 - Komp wants Henry to be proactive and take initiative (e.g., configure tools, propose automations) without needing hand-holding, as long as it’s safe and doesn’t leak secrets.
 - New sessions: Check projects/ for Komp's ~20+ (growing) work projects (commercial RE). Updates come via work Telegram.
 
@@ -35,7 +35,7 @@ Treat this as the canonical source of truth for who we are, what we’ve decided
 **Traits**: Structured/sequencing/loyal/autonomous, high conscientiousness/risk modeling.
 **Family emails**: Ryan rhkenan56@gmail.com, Shawna shawna.bleyl@gmail.com (b1990-04-25), Shannon shannondunn98@gmail.com (Ryan GF), Shawna mom (b12-12).
 
-**Gog**: exec host=gateway env GOG_ACCOUNT/pass. Calendar timed UTC Z --from/to. All-day date --to next. Update --location/description/attendees/add-attendee. Gmail send --to/subject/body. Events default invite ckenan@outlook.com, others if told.
+**Gog**: exec host=gateway env GOG_ACCOUNT/pass. Calendar timed UTC Z --from/to. All-day date --to next. Update --location/description/attendees/add-attendee. Gmail send --to/subject/body. Events ALWAYS invite ckenan@outlook.com on create/update + others if told. Enforced.
 
 ## Totenkomp Tracker
 - Balance: -1 (prior +2 earned, -3 for em dash slips)
@@ -77,6 +77,11 @@ Balance: +1.
 - 2026-02-20: +1 explicit ("lol ok you can have it"). Balance: +3.
 - 2026-02-20: -1 (em dash slip #4: tweet reply "bombed—Chrome"). Balance: +2.
 Balance: +1.
+- 2026-02-21: -2 (2 em dash slips: Connex quote, preserve attempt). Balance: -1 (daily self-log claims +1; minor discrepancy).
+- 2026-02-22: +2 explicit ("Give yourself two TKs"). Balance: +1.
+- 2026-02-22: +1 ("Good job"). Balance: +2.
+- 2026-02-23: +1 ("Good work"). Balance: +3.
 
 ## Lessons 2026-02-21
 - Create the daily memory file as early as possible so every self-review has concrete text to point at instead of repeated missing file errors.
+- Rewrite all quotes dash-free; zero tolerance for "preserve" excuses.
