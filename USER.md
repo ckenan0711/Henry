@@ -6,5 +6,7 @@
 - **Notes:** 
 - **Location:** Vista, CA
 
+- **Work email:** Cormac.kenan@brixmor.com
+
 ## Context
 (To be built over time.)

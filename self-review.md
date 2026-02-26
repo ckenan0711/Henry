@@ -106,3 +106,26 @@
 - Threshold: >10 heartbeat reps on high-prio → auto-main daytime nudge.
 - ClawVault remote: Flag/propose human setup in main.
 - Family prios (bungalow/Shawna): Escalate aggressively daytime 8AM-8PM.
+
+## 2026-02-26 06AM
+
+### Key actions
+- Executed ~12 heartbeats (00:29AM-05:28AM): gog cal/mail checks (syntax hiccups resolved priors, empty urgents next 4h), OpenClaw healthy (pid53609→57759, 20 sess, DM fixed, low latency), ClawVault status (57-61 docs dirty 3-7 git fresh/static), consistent memory reads.
+
+### Decisions
+- Low-noise overnight/pre-dawn vigilance sustained. Pendings static: ClawVault doctor/remote/embed (dirty), Mira Mesa APNs/permits, opt health (firewall/Library/DM dups).
+
+### TK changes
+- 100% dash-free across all logs; TK +3 held perfectly every heartbeat.
+
+### Mistakes
+- Minor gog cal events syntax repeats (unexpected arg despite priors clean).
+- ClawVault no progress (dirty static).
+
+### Confidence on outputs
+- 100% system health, SOUL compliance (dashes/TK), memory integrity.
+- 98% gog tooling (syntax mastery close).
+
+### Lessons
+- Gog cal: Lock calendars list → ID → events --calendarId=ID.
+- ClawVault dirty static >2 days: Escalate main daytime for remote/doctor assist.
