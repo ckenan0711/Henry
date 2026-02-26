@@ -8,7 +8,7 @@
 - Late-night heartbeats batch non-urgent checks (gog cal/email, ClawVault status, OpenClaw updates) without sleep interrupts.
 - Self-TK +6 per dash-free log imprints SOUL.md anti-dash vigilance.
 - Gog syntax: calendar "calendars list" before events list; gmail "newer_than:1d" for recent unread.
-- Bungalow/Shawna 1h listing persistent top pending: Flag for main-session nudge (family priority).
+
 - ClawVault: obs/reflect flags/shell path fixes pending; embed baking monitor.
 - Gog workflow lock: `calendars list` → ID → `events list --calendarId`.
 - Bungalow/Shawna 1h: Escalate nudge to main session (family/work top).
