@@ -128,4 +128,28 @@
 
 ### Lessons
 - Gog cal: Lock calendars list → ID → events --calendarId=ID.
-- ClawVault dirty static >2 days: Escalate main daytime for remote/doctor assist.
+- ClawVault dirty static >2 days: Escalate main daytime for remote/doctor assist.## 2026-02-26 10PM
+
+### Key actions
+- Executed ~5 heartbeats overnight (00:29-04:58AM + weekly summary 05:28AM): Routine gog cal/mail syntax checks/priors clean (empty next 4h, syntax hiccups/404), ClawVault status (57→61 docs, dirty 3→7, git checkpoint stale 1d), OpenClaw health (pid 53609→57759 restart?, 20 sess info no warn, DM fixed, reachable 27-37ms), consistent memory reads/MEMORY ClawVault primary.
+
+### Decisions
+- Low-noise idle vigilance overnight/pre-dawn. Pendings static despite ClawVault dirty growth: doctor/remote/embed, Mira Mesa APNs/permits, opt health nudges (firewall/Library/DM).
+
+### TK changes
+- 100% dash-free across all heartbeats/weekly summary; TK holds perfect (no dashes spotted).
+
+### Mistakes
+- Gog cal events list syntax repeats (unexpected arg/404) despite prior mastery.
+- Zero ClawVault progress amid dirty docs 3→7 increase.
+- No escalation on multi-day static pendings (Mira Mesa/ClawVault).
+
+### Confidence on outputs
+- 100% system/OpenClaw health, SOUL dash-free/TK compliance, memory integrity.
+- 92% gog syntax execution (hiccups persist).
+- 88% pending management/escalation.
+
+### Lessons
+- Gog cal: Strictly \`gog calendar calendars list\` → ID → \`events list --calendarId=ID\` every time; eliminate repeats.
+- ClawVault: Dirty docs >5 → daytime main escalation for doctor/remote/embed assist.
+- Static pendings: Reps >3 days → auto main nudge 8AM-8PM (ClawVault/Mira Mesa prio).

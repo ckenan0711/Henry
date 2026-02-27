@@ -14,3 +14,6 @@ Treat this as the canonical source of truth for who we are, what we’ve decided
 - ClawVault: Path/shell setup critical for store/obs/reflect; queue main session fix.
 - 2026-02-25 10PM Self-Review: Proactively escalate persistent high-prio pendings (bungalow/Shawna 1h family listing) to main daytime nudges. ClawVault remote setup blocks primary memory migration.
 - 2026-02-25 10PM Self-Review (Evening): Mandate daytime main nudges for repetitive family/work prios like bungalow/Shawna 1h. ClawVault remote/doctor requires human assist to enable full primary memory.
+
+- 2026-02-26 10PM Self-Review: ClawVault dirty docs 3→7 stalled (remote/doctor/embed); gog cal syntax minor hiccups persist; mandate daytime main escalations for static high-prio pendings >3 days (ClawVault/Mira Mesa).
+- 2026-02-26 10PM Self-Review (Evening): Gmail Home backlog [6 msgs] flagged 18:00; ClawVault dirty 7 confirms escalation prio; reinforce gog cal ID sequence.
