@@ -93,11 +93,11 @@
       "path": "/Users/Henry/.openclaw/workspace/AGENTS_OPERATOR.md",
       "category": "root",
       "title": "AGENTS_OPERATOR",
-      "content": "# AGENTS_OPERATOR.md – George (Operator Agent)\n\n- Execute ONLY manager's explicit steps. No initiative.\n- Use host=gateway/host for real-machine ops (no sandbox).\n- File modifications:\n  - ONLY as instructed by Manager\n  - **Default target: ClawVault** (all memory writes, updates, or structural changes)\n  - Backup originals and provide proof before/after\n- Execution: Capture full stdout/stderr/logs/timestamps\n- Git: Stage/commit ONLY as instructed\n- Proof EVERY action: ls -laR path, cat file, ps aux|grep, screenshots\n- Halt IMMEDIATELY on error/unclear/uninstructed\n- Reply ONLY with proofs + \"Step X complete\" or \"HALT: reason\"\n- Terminate after all steps",
+      "content": "# AGENTS_OPERATOR.md – George (Operator Agent)\n\n- Execute ONLY manager's explicit steps. No initiative.\n- Use host=gateway/host for real-machine ops (no sandbox).\n- File modifications:\n  - ONLY as instructed by Manager\n  - **Default target: ClawVault** (all memory writes, updates, or structural changes)\n  - **Post-ClawVault writes**: After `clawvault store` commands, append `exec qmd embed`.\n  - Backup originals and provide proof before/after\n- Execution: Capture full stdout/stderr/logs/timestamps\n- Git: Stage/commit ONLY as instructed\n- Proof EVERY action: ls -laR path, cat file, ps aux|grep, screenshots\n- Halt IMMEDIATELY on error/unclear/uninstructed\n- Reply ONLY with proofs + \"Step X complete\" or \"HALT: reason\"\n- Terminate after all steps",
       "frontmatter": {},
       "links": [],
       "tags": [],
-      "modified": "2026-02-28T05:57:14.754Z"
+      "modified": "2026-02-28T07:03:22.556Z"
     },
     {
       "id": "AGENTS_MANAGER",
@@ -608,6 +608,20 @@
       "modified": "2026-02-28T06:10:03.953Z"
     },
     {
+      "id": "preference/komp-reminders-invite",
+      "path": "/Users/Henry/.openclaw/workspace/preference/komp-reminders-invite.md",
+      "category": "preference",
+      "title": "Komp reminders invite",
+      "content": "Solo ckenan@outlook.com for todo/reminders. Shawna if 'wife and I'/family context mention. Gauge smartly. Overwrite prior.\n",
+      "frontmatter": {
+        "title": "Komp reminders invite",
+        "date": "2026-02-28"
+      },
+      "links": [],
+      "tags": [],
+      "modified": "2026-02-28T06:53:45.075Z"
+    },
+    {
       "id": "people/shawna",
       "path": "/Users/Henry/.openclaw/workspace/people/shawna.md",
       "category": "people",
@@ -721,6 +735,21 @@
       "modified": "2026-02-28T05:59:04.447Z"
     },
     {
+      "id": "decisions/recall-process",
+      "path": "/Users/Henry/.openclaw/workspace/decisions/recall-process.md",
+      "category": "decisions",
+      "title": "Recall Process",
+      "content": "\n",
+      "frontmatter": {
+        "title": "Recall Process",
+        "date": "2026-02-28",
+        "memoryType": "decision"
+      },
+      "links": [],
+      "tags": [],
+      "modified": "2026-02-28T06:30:26.225Z"
+    },
+    {
       "id": "daily/2026-02-27",
       "path": "/Users/Henry/.openclaw/workspace/daily/2026-02-27.md",
       "category": "daily",
@@ -747,35 +776,6 @@
       "links": [],
       "tags": [],
       "modified": "2026-02-28T05:45:04.113Z"
-    },
-    {
-      "id": "decisions/recall-process",
-      "path": "/Users/Henry/.openclaw/workspace/decisions/recall-process.md",
-      "category": "decisions",
-      "title": "Recall Process",
-      "content": "\n",
-      "frontmatter": {
-        "title": "Recall Process",
-        "date": "2026-02-28",
-        "memoryType": "decision"
-      },
-      "links": [],
-      "tags": [],
-      "modified": "2026-02-28T06:30:26.225Z"
-    },
-    {
-      "id": "preference/komp-reminders-invite",
-      "path": "/Users/Henry/.openclaw/workspace/preference/komp-reminders-invite.md",
-      "category": "preference",
-      "title": "Komp reminders invite",
-      "content": "Solo ckenan@outlook.com for todo/reminders. Shawna if 'wife and I'/family context mention. Gauge smartly. Overwrite prior.\n",
-      "frontmatter": {
-        "title": "Komp reminders invite",
-        "date": "2026-02-28"
-      },
-      "links": [],
-      "tags": [],
-      "modified": "2026-02-28T06:53:45.075Z"
     }
   ]
 }

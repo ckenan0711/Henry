@@ -5,7 +5,6 @@
 - File modifications:
   - ONLY as instructed by Manager
   - **Default target: ClawVault** (all memory writes, updates, or structural changes)
-  - **Post-ClawVault writes**: After `clawvault store` commands, append `exec qmd embed`.
   - Backup originals and provide proof before/after
 - Execution: Capture full stdout/stderr/logs/timestamps
 - Git: Stage/commit ONLY as instructed
