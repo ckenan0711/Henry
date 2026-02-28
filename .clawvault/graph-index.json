@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "vaultPath": "/Users/Henry/.openclaw/workspace",
-  "generatedAt": "2026-02-28T06:40:27.694Z",
+  "generatedAt": "2026-02-28T06:53:45.077Z",
   "files": {
     "AGENTS_ELEANOR.md": {
       "relativePath": "AGENTS_ELEANOR.md",
@@ -219,6 +219,24 @@
       ],
       "edges": []
     },
+    "lessons/reminder-attendees.md": {
+      "relativePath": "lessons/reminder-attendees.md",
+      "mtimeMs": 1772261485567.4724,
+      "nodes": [
+        {
+          "id": "note:lessons/reminder-attendees",
+          "title": "Reminder attendees",
+          "type": "lesson",
+          "category": "lesson",
+          "path": "lessons/reminder-attendees.md",
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-02-28T06:51:25.567Z"
+        }
+      ],
+      "edges": []
+    },
     "people/komp-region.md": {
       "relativePath": "people/komp-region.md",
       "mtimeMs": 1772259052971.1833,
@@ -305,6 +323,24 @@
           "missing": false,
           "degree": 0,
           "modifiedAt": "2026-02-28T03:38:58.125Z"
+        }
+      ],
+      "edges": []
+    },
+    "preference/komp-reminders-invite.md": {
+      "relativePath": "preference/komp-reminders-invite.md",
+      "mtimeMs": 1772261625074.7283,
+      "nodes": [
+        {
+          "id": "note:preference/komp-reminders-invite",
+          "title": "Komp reminders invite",
+          "type": "note",
+          "category": "note",
+          "path": "preference/komp-reminders-invite.md",
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-02-28T06:53:45.074Z"
         }
       ],
       "edges": []
@@ -788,6 +824,17 @@
         "modifiedAt": "2026-02-28T06:22:03.117Z"
       },
       {
+        "id": "note:lessons/reminder-attendees",
+        "title": "Reminder attendees",
+        "type": "lesson",
+        "category": "lesson",
+        "path": "lessons/reminder-attendees.md",
+        "tags": [],
+        "missing": false,
+        "degree": 0,
+        "modifiedAt": "2026-02-28T06:51:25.567Z"
+      },
+      {
         "id": "note:people/komp-region",
         "title": "Komp region",
         "type": "person",
@@ -841,6 +888,17 @@
         "missing": false,
         "degree": 0,
         "modifiedAt": "2026-02-28T03:38:58.125Z"
+      },
+      {
+        "id": "note:preference/komp-reminders-invite",
+        "title": "Komp reminders invite",
+        "type": "note",
+        "category": "note",
+        "path": "preference/komp-reminders-invite.md",
+        "tags": [],
+        "missing": false,
+        "degree": 0,
+        "modifiedAt": "2026-02-28T06:53:45.074Z"
       },
       {
         "id": "note:preferences/komp-goal",
@@ -1061,14 +1119,14 @@
       }
     ],
     "stats": {
-      "generatedAt": "2026-02-28T06:40:27.694Z",
-      "nodeCount": 36,
+      "generatedAt": "2026-02-28T06:53:45.077Z",
+      "nodeCount": 38,
       "edgeCount": 1,
       "nodeTypeCounts": {
-        "note": 26,
+        "note": 27,
         "daily": 2,
         "decision": 1,
-        "lesson": 1,
+        "lesson": 2,
         "person": 5,
         "unresolved": 1
       },

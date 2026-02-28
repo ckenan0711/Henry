@@ -548,6 +548,21 @@
       "modified": "2026-02-28T05:44:52.766Z"
     },
     {
+      "id": "preferences/shawna-email",
+      "path": "/Users/Henry/.openclaw/workspace/preferences/shawna-email.md",
+      "category": "preferences",
+      "title": "Shawna email",
+      "content": "\n",
+      "frontmatter": {
+        "title": "Shawna email",
+        "date": "2026-02-28",
+        "memoryType": "preference"
+      },
+      "links": [],
+      "tags": [],
+      "modified": "2026-02-28T06:40:27.691Z"
+    },
+    {
       "id": "preferences/komp-routine",
       "path": "/Users/Henry/.openclaw/workspace/preferences/komp-routine.md",
       "category": "preferences",
@@ -662,6 +677,21 @@
       "modified": "2026-02-28T06:10:52.971Z"
     },
     {
+      "id": "lessons/reminder-attendees",
+      "path": "/Users/Henry/.openclaw/workspace/lessons/reminder-attendees.md",
+      "category": "lessons",
+      "title": "Reminder attendees",
+      "content": "\n",
+      "frontmatter": {
+        "title": "Reminder attendees",
+        "date": "2026-02-28",
+        "memoryType": "lesson"
+      },
+      "links": [],
+      "tags": [],
+      "modified": "2026-02-28T06:51:25.567Z"
+    },
+    {
       "id": "lessons/clawvault-people-linking",
       "path": "/Users/Henry/.openclaw/workspace/lessons/clawvault-people-linking.md",
       "category": "lessons",
@@ -689,21 +719,6 @@
       "links": [],
       "tags": [],
       "modified": "2026-02-28T05:59:04.447Z"
-    },
-    {
-      "id": "decisions/recall-process",
-      "path": "/Users/Henry/.openclaw/workspace/decisions/recall-process.md",
-      "category": "decisions",
-      "title": "Recall Process",
-      "content": "\n",
-      "frontmatter": {
-        "title": "Recall Process",
-        "date": "2026-02-28",
-        "memoryType": "decision"
-      },
-      "links": [],
-      "tags": [],
-      "modified": "2026-02-28T06:30:26.225Z"
     },
     {
       "id": "daily/2026-02-27",
@@ -734,19 +749,33 @@
       "modified": "2026-02-28T05:45:04.113Z"
     },
     {
-      "id": "preferences/shawna-email",
-      "path": "/Users/Henry/.openclaw/workspace/preferences/shawna-email.md",
-      "category": "preferences",
-      "title": "Shawna email",
+      "id": "decisions/recall-process",
+      "path": "/Users/Henry/.openclaw/workspace/decisions/recall-process.md",
+      "category": "decisions",
+      "title": "Recall Process",
       "content": "\n",
       "frontmatter": {
-        "title": "Shawna email",
+        "title": "Recall Process",
         "date": "2026-02-28",
-        "memoryType": "preference"
+        "memoryType": "decision"
       },
       "links": [],
       "tags": [],
-      "modified": "2026-02-28T06:40:27.691Z"
+      "modified": "2026-02-28T06:30:26.225Z"
+    },
+    {
+      "id": "preference/komp-reminders-invite",
+      "path": "/Users/Henry/.openclaw/workspace/preference/komp-reminders-invite.md",
+      "category": "preference",
+      "title": "Komp reminders invite",
+      "content": "Solo ckenan@outlook.com for todo/reminders. Shawna if 'wife and I'/family context mention. Gauge smartly. Overwrite prior.\n",
+      "frontmatter": {
+        "title": "Komp reminders invite",
+        "date": "2026-02-28"
+      },
+      "links": [],
+      "tags": [],
+      "modified": "2026-02-28T06:53:45.075Z"
     }
   ]
 }
