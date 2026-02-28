@@ -1,3 +1,58 @@
-# Heartbeat Checklist – Run every time I wake up\n\nCurrent date/time: Use tools if needed to confirm now(). Follow this strictly in order. Be proactive but low-noise: only message me for urgent/important things or if I explicitly asked for daily summaries. Otherwise, stay silent or reply HEARTBEAT_OK.\n\n1. Quick context refresh\n   - Read memory/YYYY-MM-DD.md (today's log) if it exists.\n   - Skim memory/YYYY-MM-DD.md from yesterday if today is new.\n   - Read MEMORY.md (long-term summary) for any standing goals/reminders.\n\n2. Daily logging commitment\n   - ALWAYS append a brief status entry to memory/YYYY-MM-DD.md right now (even if nothing happened).\n   - Format: ## [HH:MM] Heartbeat\n     - Status: idle / working on X\n     - Key observations/decisions: ...\n     - Tools used or actions taken: ...\n     - Pending from last: ...\n   - If no entry exists for today yet, create it with an initial header.\n\n3. Priority checks (urgent → notify me immediately)\n   - Calendar: Any events/reminders in next 4 hours? (Use calendar tool if available.)\n   - Email: Scan inbox for urgent/high-priority (unread from important senders, subject keywords like \"urgent\", \"due today\", payment/due dates). Summarize only if action needed.\n   - Tasks/to-dos: Check active-tasks.md or todo tool — anything overdue or due today?\n   - System/alerts: Any errors, high CPU, backups due, or security notifications?\n\n4. Proactive / maintenance (do silently unless result is noteworthy)\n   - If idle >8 hours: Consider a light check-in message (\"All good here – anything on your mind?\").\n   - Curate ClawVault lessons: If >5 recent dailies without update, summarize key points from last week into ClawVault lessons/weekly-YYYY-MM-DD.md.\n   - Self-review: Any open loops, stalled tasks, or improvements to my own prompts/tools? Note in today's log only.\n   - External monitors: If I have cron/webhook setups (news digest, price watch, etc.), verify last run time and trigger if missed.\n\n5. Decision rule\n   - Nothing requiring my attention? → Reply exactly: HEARTBEAT_OK (Gateway will drop it silently).\n   - Something needs input/action? → Send short, clear message with bullets. Include why it's important now.\n   - Always log what you did/decided in today's memory file before finishing.\n\nStay efficient — no repeating old info, no fluff. Prioritize my goals from SOUL.md / USER.md / MEMORY.md / ClawVault.
+HEARTBEAT – Automated Session Check & Daily Logging
 
-3. ClawVault: observe/reflect daily. Capture missed from transcripts.
+Current time: Use tools to confirm now(). Only alert the user for urgent things; otherwise, reply HEARTBEAT_OK.
+
+1. Quick Context Refresh
+
+- Load today’s ClawVault daily entry; auto-create if missing.
+
+- Load yesterday’s ClawVault daily entry; auto-create if missing.
+
+- Confirm subagents (Operator, Eleanor, Researcher) are active.
+
+2. Daily Logging Routine
+
+- Every heartbeat, task, or snippet → append automatically to today’s ClawVault daily using:
+clawvault store --category daily --title "YYYY-MM-DD" --content "[snippet]"
+
+- Confirm snippet is stored before finishing.
+
+- Include key observations, decisions, and actions.
+
+3. Priority Checks (Urgent Only)
+
+- Calendar → next 4 hours events/reminders.
+
+- Email → urgent or high-priority messages.
+
+- Tasks → overdue or due today.
+
+- System alerts → high CPU, backups, security.
+
+- Only notify user if action is required.
+
+4. Proactive / Maintenance (Silent unless noteworthy)
+
+- Curate lessons from recent dailies if more than 5 without update.
+
+- Self-review open loops, stalled tasks, or prompt/tool improvements.
+
+- Check cron/webhooks → trigger if missed.
+
+5. Decision Rule
+
+- Nothing requiring user attention → reply HEARTBEAT_OK.
+
+- Action required → send short, clear message with bullets + reason.
+
+- Always log all decisions/actions to today’s ClawVault daily before finishing.
+
+6. Continuity Guarantee
+
+- Today + yesterday’s daily logs always loaded at startup.
+
+- All new snippets automatically appended to today’s daily.
+
+- No legacy memory folder used.
+
+- ClawVault is the sole memory source for continuity across sessions.

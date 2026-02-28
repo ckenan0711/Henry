@@ -1,0 +1,1 @@
+0 * * * * openclaw message channel=telegram target=1650045004 \"HEARTBEAT\"

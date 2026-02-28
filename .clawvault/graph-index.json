@@ -1,0 +1,1080 @@
+{
+  "schemaVersion": 1,
+  "vaultPath": "/Users/Henry/.openclaw/workspace",
+  "generatedAt": "2026-02-28T06:40:27.694Z",
+  "files": {
+    "AGENTS_ELEANOR.md": {
+      "relativePath": "AGENTS_ELEANOR.md",
+      "mtimeMs": 1772173675088.148,
+      "nodes": [
+        {
+          "id": "note:AGENTS_ELEANOR",
+          "title": "AGENTS ELEANOR",
+          "type": "note",
+          "category": "note",
+          "path": "AGENTS_ELEANOR.md",
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-02-27T06:27:55.088Z"
+        }
+      ],
+      "edges": []
+    },
+    "AGENTS_MANAGER.md": {
+      "relativePath": "AGENTS_MANAGER.md",
+      "mtimeMs": 1772253552568.866,
+      "nodes": [
+        {
+          "id": "note:AGENTS_MANAGER",
+          "title": "AGENTS MANAGER",
+          "type": "note",
+          "category": "note",
+          "path": "AGENTS_MANAGER.md",
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-02-28T04:39:12.568Z"
+        }
+      ],
+      "edges": []
+    },
+    "AGENTS_OPERATOR.md": {
+      "relativePath": "AGENTS_OPERATOR.md",
+      "mtimeMs": 1772258234754.309,
+      "nodes": [
+        {
+          "id": "note:AGENTS_OPERATOR",
+          "title": "AGENTS OPERATOR",
+          "type": "note",
+          "category": "note",
+          "path": "AGENTS_OPERATOR.md",
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-02-28T05:57:14.754Z"
+        }
+      ],
+      "edges": []
+    },
+    "AGENTS_RESEARCHER.md": {
+      "relativePath": "AGENTS_RESEARCHER.md",
+      "mtimeMs": 1772173410980.6038,
+      "nodes": [
+        {
+          "id": "note:AGENTS_RESEARCHER",
+          "title": "AGENTS RESEARCHER",
+          "type": "note",
+          "category": "note",
+          "path": "AGENTS_RESEARCHER.md",
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-02-27T06:23:30.980Z"
+        }
+      ],
+      "edges": []
+    },
+    "AGENTS.md": {
+      "relativePath": "AGENTS.md",
+      "mtimeMs": 1772256727194.816,
+      "nodes": [
+        {
+          "id": "note:AGENTS",
+          "title": "AGENTS",
+          "type": "note",
+          "category": "note",
+          "path": "AGENTS.md",
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-02-28T05:32:07.194Z"
+        }
+      ],
+      "edges": []
+    },
+    "daily/2026-02-26.md": {
+      "relativePath": "daily/2026-02-26.md",
+      "mtimeMs": 1772257504113.3823,
+      "nodes": [
+        {
+          "id": "note:daily/2026-02-26",
+          "title": "2026-02-26",
+          "type": "daily",
+          "category": "daily",
+          "path": "daily/2026-02-26.md",
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-02-28T05:45:04.113Z"
+        }
+      ],
+      "edges": []
+    },
+    "daily/2026-02-27.md": {
+      "relativePath": "daily/2026-02-27.md",
+      "mtimeMs": 1772260586584.7258,
+      "nodes": [
+        {
+          "id": "note:daily/2026-02-27",
+          "title": "2026-02-27",
+          "type": "daily",
+          "category": "daily",
+          "path": "daily/2026-02-27.md",
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-02-28T06:36:26.584Z"
+        }
+      ],
+      "edges": []
+    },
+    "decisions/recall-process.md": {
+      "relativePath": "decisions/recall-process.md",
+      "mtimeMs": 1772260226225.0762,
+      "nodes": [
+        {
+          "id": "note:decisions/recall-process",
+          "title": "Recall Process",
+          "type": "decision",
+          "category": "decision",
+          "path": "decisions/recall-process.md",
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-02-28T06:30:26.225Z"
+        }
+      ],
+      "edges": []
+    },
+    "HEARTBEAT.md": {
+      "relativePath": "HEARTBEAT.md",
+      "mtimeMs": 1772256815072.951,
+      "nodes": [
+        {
+          "id": "note:HEARTBEAT",
+          "title": "HEARTBEAT",
+          "type": "note",
+          "category": "note",
+          "path": "HEARTBEAT.md",
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-02-28T05:33:35.072Z"
+        }
+      ],
+      "edges": []
+    },
+    "IDENTITY.md": {
+      "relativePath": "IDENTITY.md",
+      "mtimeMs": 1772088040792.7712,
+      "nodes": [
+        {
+          "id": "note:IDENTITY",
+          "title": "IDENTITY",
+          "type": "note",
+          "category": "note",
+          "path": "IDENTITY.md",
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-02-26T06:40:40.792Z"
+        }
+      ],
+      "edges": []
+    },
+    "lesson/agent-file-discovery.md": {
+      "relativePath": "lesson/agent-file-discovery.md",
+      "mtimeMs": 1772258344446.7522,
+      "nodes": [
+        {
+          "id": "note:lesson/agent-file-discovery",
+          "title": "Agent File Discovery",
+          "type": "note",
+          "category": "note",
+          "path": "lesson/agent-file-discovery.md",
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-02-28T05:59:04.446Z"
+        }
+      ],
+      "edges": []
+    },
+    "lessons/clawvault-people-linking.md": {
+      "relativePath": "lessons/clawvault-people-linking.md",
+      "mtimeMs": 1772259723117.0361,
+      "nodes": [
+        {
+          "id": "note:lessons/clawvault-people-linking",
+          "title": "ClawVault people linking",
+          "type": "lesson",
+          "category": "lesson",
+          "path": "lessons/clawvault-people-linking.md",
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-02-28T06:22:03.117Z"
+        }
+      ],
+      "edges": []
+    },
+    "people/komp-region.md": {
+      "relativePath": "people/komp-region.md",
+      "mtimeMs": 1772259052971.1833,
+      "nodes": [
+        {
+          "id": "note:people/komp-region",
+          "title": "Komp region",
+          "type": "person",
+          "category": "person",
+          "path": "people/komp-region.md",
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-02-28T06:10:52.971Z"
+        }
+      ],
+      "edges": []
+    },
+    "people/komp-shawna.md": {
+      "relativePath": "people/komp-shawna.md",
+      "mtimeMs": 1772259660759.268,
+      "nodes": [
+        {
+          "id": "note:people/komp-shawna",
+          "title": "Komp-Shawna",
+          "type": "person",
+          "category": "person",
+          "path": "people/komp-shawna.md",
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-02-28T06:21:00.759Z"
+        }
+      ],
+      "edges": []
+    },
+    "people/ryan.md": {
+      "relativePath": "people/ryan.md",
+      "mtimeMs": 1772249938139.8848,
+      "nodes": [
+        {
+          "id": "note:people/ryan",
+          "title": "Ryan",
+          "type": "person",
+          "category": "person",
+          "path": "people/ryan.md",
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-02-28T03:38:58.139Z"
+        }
+      ],
+      "edges": []
+    },
+    "people/shannon.md": {
+      "relativePath": "people/shannon.md",
+      "mtimeMs": 1772249938146.209,
+      "nodes": [
+        {
+          "id": "note:people/shannon",
+          "title": "Shannon",
+          "type": "person",
+          "category": "person",
+          "path": "people/shannon.md",
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-02-28T03:38:58.146Z"
+        }
+      ],
+      "edges": []
+    },
+    "people/shawna.md": {
+      "relativePath": "people/shawna.md",
+      "mtimeMs": 1772249938125.0781,
+      "nodes": [
+        {
+          "id": "note:people/shawna",
+          "title": "Shawna",
+          "type": "person",
+          "category": "person",
+          "path": "people/shawna.md",
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-02-28T03:38:58.125Z"
+        }
+      ],
+      "edges": []
+    },
+    "preferences/komp-goal.md": {
+      "relativePath": "preferences/komp-goal.md",
+      "mtimeMs": 1772259003952.8347,
+      "nodes": [
+        {
+          "id": "note:preferences/komp-goal",
+          "title": "Komp goal",
+          "type": "note",
+          "category": "note",
+          "path": "preferences/komp-goal.md",
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-02-28T06:10:03.952Z"
+        }
+      ],
+      "edges": []
+    },
+    "preferences/komp-rolodex-tracking.md": {
+      "relativePath": "preferences/komp-rolodex-tracking.md",
+      "mtimeMs": 1772259118439.0405,
+      "nodes": [
+        {
+          "id": "note:preferences/komp-rolodex-tracking",
+          "title": "Komp Rolodex tracking",
+          "type": "note",
+          "category": "note",
+          "path": "preferences/komp-rolodex-tracking.md",
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-02-28T06:11:58.439Z"
+        }
+      ],
+      "edges": []
+    },
+    "preferences/komp-routine.md": {
+      "relativePath": "preferences/komp-routine.md",
+      "mtimeMs": 1772259320266.5796,
+      "nodes": [
+        {
+          "id": "note:preferences/komp-routine",
+          "title": "Komp routine",
+          "type": "note",
+          "category": "note",
+          "path": "preferences/komp-routine.md",
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-02-28T06:15:20.266Z"
+        }
+      ],
+      "edges": []
+    },
+    "preferences/shawna-email.md": {
+      "relativePath": "preferences/shawna-email.md",
+      "mtimeMs": 1772260827691.368,
+      "nodes": [
+        {
+          "id": "note:preferences/shawna-email",
+          "title": "Shawna email",
+          "type": "note",
+          "category": "note",
+          "path": "preferences/shawna-email.md",
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-02-28T06:40:27.691Z"
+        }
+      ],
+      "edges": []
+    },
+    "self-review.md": {
+      "relativePath": "self-review.md",
+      "mtimeMs": 1772258463592.1338,
+      "nodes": [
+        {
+          "id": "note:self-review",
+          "title": "Self Review",
+          "type": "note",
+          "category": "note",
+          "path": "self-review.md",
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-02-28T06:01:03.592Z"
+        }
+      ],
+      "edges": []
+    },
+    "skills/gog/SKILL.md": {
+      "relativePath": "skills/gog/SKILL.md",
+      "mtimeMs": 1770954884852.7512,
+      "nodes": [
+        {
+          "id": "note:skills/gog/SKILL",
+          "title": "SKILL",
+          "type": "note",
+          "category": "note",
+          "path": "skills/gog/SKILL.md",
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-02-13T03:54:44.852Z"
+        },
+        {
+          "id": "unresolved:x/-/-y/-/-z",
+          "title": "Z",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        }
+      ],
+      "edges": [
+        {
+          "id": "wiki_link:note:skills/gog/SKILL->unresolved:x/-/-y/-/-z",
+          "source": "note:skills/gog/SKILL",
+          "target": "unresolved:x/-/-y/-/-z",
+          "type": "wiki_link"
+        }
+      ]
+    },
+    "SOUL.md": {
+      "relativePath": "SOUL.md",
+      "mtimeMs": 1772257414441.332,
+      "nodes": [
+        {
+          "id": "note:SOUL",
+          "title": "SOUL",
+          "type": "note",
+          "category": "note",
+          "path": "SOUL.md",
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-02-28T05:43:34.441Z"
+        }
+      ],
+      "edges": []
+    },
+    "SYSTEM_CORE.md": {
+      "relativePath": "SYSTEM_CORE.md",
+      "mtimeMs": 1772254221209.409,
+      "nodes": [
+        {
+          "id": "note:SYSTEM_CORE",
+          "title": "SYSTEM CORE",
+          "type": "note",
+          "category": "note",
+          "path": "SYSTEM_CORE.md",
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-02-28T04:50:21.209Z"
+        }
+      ],
+      "edges": []
+    },
+    "templates/checkpoint.md": {
+      "relativePath": "templates/checkpoint.md",
+      "mtimeMs": 1772257492766.4153,
+      "nodes": [
+        {
+          "id": "note:templates/checkpoint",
+          "title": "Checkpoint",
+          "type": "note",
+          "category": "note",
+          "path": "templates/checkpoint.md",
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-02-28T05:44:52.766Z"
+        }
+      ],
+      "edges": []
+    },
+    "templates/daily-note.md": {
+      "relativePath": "templates/daily-note.md",
+      "mtimeMs": 1772257492766.8713,
+      "nodes": [
+        {
+          "id": "note:templates/daily-note",
+          "title": "Daily Note",
+          "type": "note",
+          "category": "note",
+          "path": "templates/daily-note.md",
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-02-28T05:44:52.766Z"
+        }
+      ],
+      "edges": []
+    },
+    "templates/decision.md": {
+      "relativePath": "templates/decision.md",
+      "mtimeMs": 1772257492767.2825,
+      "nodes": [
+        {
+          "id": "note:templates/decision",
+          "title": "Decision",
+          "type": "note",
+          "category": "note",
+          "path": "templates/decision.md",
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-02-28T05:44:52.767Z"
+        }
+      ],
+      "edges": []
+    },
+    "templates/handoff.md": {
+      "relativePath": "templates/handoff.md",
+      "mtimeMs": 1772257492767.7166,
+      "nodes": [
+        {
+          "id": "note:templates/handoff",
+          "title": "Handoff",
+          "type": "note",
+          "category": "note",
+          "path": "templates/handoff.md",
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-02-28T05:44:52.767Z"
+        }
+      ],
+      "edges": []
+    },
+    "templates/lesson.md": {
+      "relativePath": "templates/lesson.md",
+      "mtimeMs": 1772257492768.1482,
+      "nodes": [
+        {
+          "id": "note:templates/lesson",
+          "title": "Lesson",
+          "type": "note",
+          "category": "note",
+          "path": "templates/lesson.md",
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-02-28T05:44:52.768Z"
+        }
+      ],
+      "edges": []
+    },
+    "templates/person.md": {
+      "relativePath": "templates/person.md",
+      "mtimeMs": 1772257492768.4055,
+      "nodes": [
+        {
+          "id": "note:templates/person",
+          "title": "Person",
+          "type": "note",
+          "category": "note",
+          "path": "templates/person.md",
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-02-28T05:44:52.768Z"
+        }
+      ],
+      "edges": []
+    },
+    "templates/project.md": {
+      "relativePath": "templates/project.md",
+      "mtimeMs": 1772257492768.7366,
+      "nodes": [
+        {
+          "id": "note:templates/project",
+          "title": "Project",
+          "type": "note",
+          "category": "note",
+          "path": "templates/project.md",
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-02-28T05:44:52.768Z"
+        }
+      ],
+      "edges": []
+    },
+    "templates/task.md": {
+      "relativePath": "templates/task.md",
+      "mtimeMs": 1772257492769.04,
+      "nodes": [
+        {
+          "id": "note:templates/task",
+          "title": "Task",
+          "type": "note",
+          "category": "note",
+          "path": "templates/task.md",
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-02-28T05:44:52.769Z"
+        }
+      ],
+      "edges": []
+    },
+    "TOOLS.md": {
+      "relativePath": "TOOLS.md",
+      "mtimeMs": 1771309606393.6108,
+      "nodes": [
+        {
+          "id": "note:TOOLS",
+          "title": "TOOLS",
+          "type": "note",
+          "category": "note",
+          "path": "TOOLS.md",
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-02-17T06:26:46.393Z"
+        }
+      ],
+      "edges": []
+    },
+    "USER.md": {
+      "relativePath": "USER.md",
+      "mtimeMs": 1772230431689.6448,
+      "nodes": [
+        {
+          "id": "note:USER",
+          "title": "USER",
+          "type": "note",
+          "category": "note",
+          "path": "USER.md",
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-02-27T22:13:51.689Z"
+        }
+      ],
+      "edges": []
+    }
+  },
+  "graph": {
+    "schemaVersion": 1,
+    "nodes": [
+      {
+        "id": "note:AGENTS",
+        "title": "AGENTS",
+        "type": "note",
+        "category": "note",
+        "path": "AGENTS.md",
+        "tags": [],
+        "missing": false,
+        "degree": 0,
+        "modifiedAt": "2026-02-28T05:32:07.194Z"
+      },
+      {
+        "id": "note:AGENTS_ELEANOR",
+        "title": "AGENTS ELEANOR",
+        "type": "note",
+        "category": "note",
+        "path": "AGENTS_ELEANOR.md",
+        "tags": [],
+        "missing": false,
+        "degree": 0,
+        "modifiedAt": "2026-02-27T06:27:55.088Z"
+      },
+      {
+        "id": "note:AGENTS_MANAGER",
+        "title": "AGENTS MANAGER",
+        "type": "note",
+        "category": "note",
+        "path": "AGENTS_MANAGER.md",
+        "tags": [],
+        "missing": false,
+        "degree": 0,
+        "modifiedAt": "2026-02-28T04:39:12.568Z"
+      },
+      {
+        "id": "note:AGENTS_OPERATOR",
+        "title": "AGENTS OPERATOR",
+        "type": "note",
+        "category": "note",
+        "path": "AGENTS_OPERATOR.md",
+        "tags": [],
+        "missing": false,
+        "degree": 0,
+        "modifiedAt": "2026-02-28T05:57:14.754Z"
+      },
+      {
+        "id": "note:AGENTS_RESEARCHER",
+        "title": "AGENTS RESEARCHER",
+        "type": "note",
+        "category": "note",
+        "path": "AGENTS_RESEARCHER.md",
+        "tags": [],
+        "missing": false,
+        "degree": 0,
+        "modifiedAt": "2026-02-27T06:23:30.980Z"
+      },
+      {
+        "id": "note:daily/2026-02-26",
+        "title": "2026-02-26",
+        "type": "daily",
+        "category": "daily",
+        "path": "daily/2026-02-26.md",
+        "tags": [],
+        "missing": false,
+        "degree": 0,
+        "modifiedAt": "2026-02-28T05:45:04.113Z"
+      },
+      {
+        "id": "note:daily/2026-02-27",
+        "title": "2026-02-27",
+        "type": "daily",
+        "category": "daily",
+        "path": "daily/2026-02-27.md",
+        "tags": [],
+        "missing": false,
+        "degree": 0,
+        "modifiedAt": "2026-02-28T06:36:26.584Z"
+      },
+      {
+        "id": "note:decisions/recall-process",
+        "title": "Recall Process",
+        "type": "decision",
+        "category": "decision",
+        "path": "decisions/recall-process.md",
+        "tags": [],
+        "missing": false,
+        "degree": 0,
+        "modifiedAt": "2026-02-28T06:30:26.225Z"
+      },
+      {
+        "id": "note:HEARTBEAT",
+        "title": "HEARTBEAT",
+        "type": "note",
+        "category": "note",
+        "path": "HEARTBEAT.md",
+        "tags": [],
+        "missing": false,
+        "degree": 0,
+        "modifiedAt": "2026-02-28T05:33:35.072Z"
+      },
+      {
+        "id": "note:IDENTITY",
+        "title": "IDENTITY",
+        "type": "note",
+        "category": "note",
+        "path": "IDENTITY.md",
+        "tags": [],
+        "missing": false,
+        "degree": 0,
+        "modifiedAt": "2026-02-26T06:40:40.792Z"
+      },
+      {
+        "id": "note:lesson/agent-file-discovery",
+        "title": "Agent File Discovery",
+        "type": "note",
+        "category": "note",
+        "path": "lesson/agent-file-discovery.md",
+        "tags": [],
+        "missing": false,
+        "degree": 0,
+        "modifiedAt": "2026-02-28T05:59:04.446Z"
+      },
+      {
+        "id": "note:lessons/clawvault-people-linking",
+        "title": "ClawVault people linking",
+        "type": "lesson",
+        "category": "lesson",
+        "path": "lessons/clawvault-people-linking.md",
+        "tags": [],
+        "missing": false,
+        "degree": 0,
+        "modifiedAt": "2026-02-28T06:22:03.117Z"
+      },
+      {
+        "id": "note:people/komp-region",
+        "title": "Komp region",
+        "type": "person",
+        "category": "person",
+        "path": "people/komp-region.md",
+        "tags": [],
+        "missing": false,
+        "degree": 0,
+        "modifiedAt": "2026-02-28T06:10:52.971Z"
+      },
+      {
+        "id": "note:people/komp-shawna",
+        "title": "Komp-Shawna",
+        "type": "person",
+        "category": "person",
+        "path": "people/komp-shawna.md",
+        "tags": [],
+        "missing": false,
+        "degree": 0,
+        "modifiedAt": "2026-02-28T06:21:00.759Z"
+      },
+      {
+        "id": "note:people/ryan",
+        "title": "Ryan",
+        "type": "person",
+        "category": "person",
+        "path": "people/ryan.md",
+        "tags": [],
+        "missing": false,
+        "degree": 0,
+        "modifiedAt": "2026-02-28T03:38:58.139Z"
+      },
+      {
+        "id": "note:people/shannon",
+        "title": "Shannon",
+        "type": "person",
+        "category": "person",
+        "path": "people/shannon.md",
+        "tags": [],
+        "missing": false,
+        "degree": 0,
+        "modifiedAt": "2026-02-28T03:38:58.146Z"
+      },
+      {
+        "id": "note:people/shawna",
+        "title": "Shawna",
+        "type": "person",
+        "category": "person",
+        "path": "people/shawna.md",
+        "tags": [],
+        "missing": false,
+        "degree": 0,
+        "modifiedAt": "2026-02-28T03:38:58.125Z"
+      },
+      {
+        "id": "note:preferences/komp-goal",
+        "title": "Komp goal",
+        "type": "note",
+        "category": "note",
+        "path": "preferences/komp-goal.md",
+        "tags": [],
+        "missing": false,
+        "degree": 0,
+        "modifiedAt": "2026-02-28T06:10:03.952Z"
+      },
+      {
+        "id": "note:preferences/komp-rolodex-tracking",
+        "title": "Komp Rolodex tracking",
+        "type": "note",
+        "category": "note",
+        "path": "preferences/komp-rolodex-tracking.md",
+        "tags": [],
+        "missing": false,
+        "degree": 0,
+        "modifiedAt": "2026-02-28T06:11:58.439Z"
+      },
+      {
+        "id": "note:preferences/komp-routine",
+        "title": "Komp routine",
+        "type": "note",
+        "category": "note",
+        "path": "preferences/komp-routine.md",
+        "tags": [],
+        "missing": false,
+        "degree": 0,
+        "modifiedAt": "2026-02-28T06:15:20.266Z"
+      },
+      {
+        "id": "note:preferences/shawna-email",
+        "title": "Shawna email",
+        "type": "note",
+        "category": "note",
+        "path": "preferences/shawna-email.md",
+        "tags": [],
+        "missing": false,
+        "degree": 0,
+        "modifiedAt": "2026-02-28T06:40:27.691Z"
+      },
+      {
+        "id": "note:self-review",
+        "title": "Self Review",
+        "type": "note",
+        "category": "note",
+        "path": "self-review.md",
+        "tags": [],
+        "missing": false,
+        "degree": 0,
+        "modifiedAt": "2026-02-28T06:01:03.592Z"
+      },
+      {
+        "id": "note:skills/gog/SKILL",
+        "title": "SKILL",
+        "type": "note",
+        "category": "note",
+        "path": "skills/gog/SKILL.md",
+        "tags": [],
+        "missing": false,
+        "degree": 1,
+        "modifiedAt": "2026-02-13T03:54:44.852Z"
+      },
+      {
+        "id": "note:SOUL",
+        "title": "SOUL",
+        "type": "note",
+        "category": "note",
+        "path": "SOUL.md",
+        "tags": [],
+        "missing": false,
+        "degree": 0,
+        "modifiedAt": "2026-02-28T05:43:34.441Z"
+      },
+      {
+        "id": "note:SYSTEM_CORE",
+        "title": "SYSTEM CORE",
+        "type": "note",
+        "category": "note",
+        "path": "SYSTEM_CORE.md",
+        "tags": [],
+        "missing": false,
+        "degree": 0,
+        "modifiedAt": "2026-02-28T04:50:21.209Z"
+      },
+      {
+        "id": "note:templates/checkpoint",
+        "title": "Checkpoint",
+        "type": "note",
+        "category": "note",
+        "path": "templates/checkpoint.md",
+        "tags": [],
+        "missing": false,
+        "degree": 0,
+        "modifiedAt": "2026-02-28T05:44:52.766Z"
+      },
+      {
+        "id": "note:templates/daily-note",
+        "title": "Daily Note",
+        "type": "note",
+        "category": "note",
+        "path": "templates/daily-note.md",
+        "tags": [],
+        "missing": false,
+        "degree": 0,
+        "modifiedAt": "2026-02-28T05:44:52.766Z"
+      },
+      {
+        "id": "note:templates/decision",
+        "title": "Decision",
+        "type": "note",
+        "category": "note",
+        "path": "templates/decision.md",
+        "tags": [],
+        "missing": false,
+        "degree": 0,
+        "modifiedAt": "2026-02-28T05:44:52.767Z"
+      },
+      {
+        "id": "note:templates/handoff",
+        "title": "Handoff",
+        "type": "note",
+        "category": "note",
+        "path": "templates/handoff.md",
+        "tags": [],
+        "missing": false,
+        "degree": 0,
+        "modifiedAt": "2026-02-28T05:44:52.767Z"
+      },
+      {
+        "id": "note:templates/lesson",
+        "title": "Lesson",
+        "type": "note",
+        "category": "note",
+        "path": "templates/lesson.md",
+        "tags": [],
+        "missing": false,
+        "degree": 0,
+        "modifiedAt": "2026-02-28T05:44:52.768Z"
+      },
+      {
+        "id": "note:templates/person",
+        "title": "Person",
+        "type": "note",
+        "category": "note",
+        "path": "templates/person.md",
+        "tags": [],
+        "missing": false,
+        "degree": 0,
+        "modifiedAt": "2026-02-28T05:44:52.768Z"
+      },
+      {
+        "id": "note:templates/project",
+        "title": "Project",
+        "type": "note",
+        "category": "note",
+        "path": "templates/project.md",
+        "tags": [],
+        "missing": false,
+        "degree": 0,
+        "modifiedAt": "2026-02-28T05:44:52.768Z"
+      },
+      {
+        "id": "note:templates/task",
+        "title": "Task",
+        "type": "note",
+        "category": "note",
+        "path": "templates/task.md",
+        "tags": [],
+        "missing": false,
+        "degree": 0,
+        "modifiedAt": "2026-02-28T05:44:52.769Z"
+      },
+      {
+        "id": "note:TOOLS",
+        "title": "TOOLS",
+        "type": "note",
+        "category": "note",
+        "path": "TOOLS.md",
+        "tags": [],
+        "missing": false,
+        "degree": 0,
+        "modifiedAt": "2026-02-17T06:26:46.393Z"
+      },
+      {
+        "id": "note:USER",
+        "title": "USER",
+        "type": "note",
+        "category": "note",
+        "path": "USER.md",
+        "tags": [],
+        "missing": false,
+        "degree": 0,
+        "modifiedAt": "2026-02-27T22:13:51.689Z"
+      },
+      {
+        "id": "unresolved:x/-/-y/-/-z",
+        "title": "Z",
+        "type": "unresolved",
+        "category": "unresolved",
+        "path": null,
+        "tags": [],
+        "missing": true,
+        "degree": 1,
+        "modifiedAt": null
+      }
+    ],
+    "edges": [
+      {
+        "id": "wiki_link:note:skills/gog/SKILL->unresolved:x/-/-y/-/-z",
+        "source": "note:skills/gog/SKILL",
+        "target": "unresolved:x/-/-y/-/-z",
+        "type": "wiki_link"
+      }
+    ],
+    "stats": {
+      "generatedAt": "2026-02-28T06:40:27.694Z",
+      "nodeCount": 36,
+      "edgeCount": 1,
+      "nodeTypeCounts": {
+        "note": 26,
+        "daily": 2,
+        "decision": 1,
+        "lesson": 1,
+        "person": 5,
+        "unresolved": 1
+      },
+      "edgeTypeCounts": {
+        "wiki_link": 1
+      }
+    }
+  }
+}
