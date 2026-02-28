@@ -44,5 +44,3 @@ Add whatever helps you do your job. This is your cheat sheet.
 - Calendar timed UTC Z --from/to. All-day date --to next. Update --location/description/attendees/add-attendee.
 - Gmail send --to/subject/body. Events default invite ckenan@outlook.com, others if told.
 
-### Lutron lights
-- Caseta bridge? IP/API/room/scene deets?
