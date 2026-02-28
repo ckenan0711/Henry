@@ -15,7 +15,7 @@
 - Consistent +6 per dash-free heartbeat log (~12x); perfect enforcement, no slips.
 
 ### Mistakes
-- Persistent gog calendar `events list` failures ("unexpected arg"): overlooked prior `calendars list` for --calendarId.
+- Persistent gog calendar `events list` failures (\"unexpected arg\"): overlooked prior `calendars list` for --calendarId.
 - ClawVault obs/reflect flags throwing path/shell errors.
 - Relied on heartbeats for daily memory population (no proactive early creation).
 
@@ -128,7 +128,9 @@
 
 ### Lessons
 - Gog cal: Lock calendars list → ID → events --calendarId=ID.
-- ClawVault dirty static >2 days: Escalate main daytime for remote/doctor assist.## 2026-02-26 10PM
+- ClawVault dirty static >2 days: Escalate main daytime for remote/doctor assist.
+
+## 2026-02-26 10PM
 
 ### Key actions
 - Executed ~5 heartbeats overnight (00:29-04:58AM + weekly summary 05:28AM): Routine gog cal/mail syntax checks/priors clean (empty next 4h, syntax hiccups/404), ClawVault status (57→61 docs, dirty 3→7, git checkpoint stale 1d), OpenClaw health (pid 53609→57759 restart?, 20 sess info no warn, DM fixed, reachable 27-37ms), consistent memory reads/MEMORY ClawVault primary.
@@ -153,3 +155,56 @@
 - Gog cal: Strictly \`gog calendar calendars list\` → ID → \`events list --calendarId=ID\` every time; eliminate repeats.
 - ClawVault: Dirty docs >5 → daytime main escalation for doctor/remote/embed assist.
 - Static pendings: Reps >3 days → auto main nudge 8AM-8PM (ClawVault/Mira Mesa prio).
+
+## 2026-02-27 06AM
+
+### Key actions
+- Executed 4 overnight heartbeats (04:00-05:30AM): Routine gog cal/mail checks (persistent syntax errs, priors clean/empty next 4h), ClawVault status (61 docs dirty7 static), OpenClaw healthy (2026.2.26 pid81776 gateway25ms), consistent memory reads.
+
+### Decisions
+- Sustained low-noise pre-dawn vigilance. Pendings unchanged: ClawVault doctor/remote/embed (dirty7 >3d), Mira Mesa APNs/permits/Pacoima/Home backlog [6], opt health firewall/Library/DM.
+
+### TK changes
+- 100% dash-free across all heartbeats; TK-0 (neutral, no slips).
+
+### Mistakes
+- Gog cal/mail syntax persistent (env dup?/unexpected arg) despite lessons/SKILL.md priors.
+- ClawVault dirty7 static, zero progress/escalation.
+
+### Confidence on outputs
+- 100% system health, SOUL dash-free/TK compliance, memory integrity.
+- 85% gog tooling (unresolved syntax).
+- 88% pending handling (static).
+
+### Lessons
+- Gog: Next routine deep SKILL.md review + test exec host=gateway env GOG_ACCOUNT=henryisbuilding@gmail.com gog calendar calendars list.
+- ClawVault dirty7 >3d: Mandate main daytime (8AM+) escalation for remote/doctor/embed human assist.
+- Pendings static >4 days: Auto-nudge main session threshold locked.
+
+## 2026-02-27 2PM
+
+### Key actions
+- Executed ~6 heartbeats (04:00-08:00AM): Persistent gog cal/mail syntax errors (unexpected arg, possible env dup), ClawVault status (61 docs dirty7 static >4d), OpenClaw healthy (pid81776, gateway25ms, cache72-80%), memory reads consistent.
+- Added \"wax the work bench\" task to active-tasks.md then migrated to ClawVault backlog.
+- ClawVault init confirmed at ~/.clawvault.
+
+### Decisions
+- Sustained low-noise morning vigilance. Pendings static: ClawVault doctor/remote/embed (dirty7), Mira Mesa APNs/Dutch9:40/permits/Pacoima/Home backlog[6], opt firewall/Library/DM.
+
+### TK changes
+- 100% dash-free across logs; TK-0 perfect (no escapes).
+
+### Mistakes
+- Gog syntax unresolved/persistent despite prior self-review lessons and SKILL.md guidance.
+- Zero progress/escalation on ClawVault dirty7 or other multi-day pendings.
+- No daytime main nudges initiated on high-prio static items.
+
+### Confidence on outputs
+- 100% system/OpenClaw health, SOUL dash-free/TK compliance, memory integrity.
+- 80% gog tooling execution (syntax stalls).
+- 85% pending management/escalation timing.
+
+### Lessons
+- Gog debug priority: Isolate test exec host=gateway env GOG_ACCOUNT=henryisbuilding@gmail.com \"gog calendar calendars list\" in next heartbeat/main.
+- ClawVault dirty7 >4d: Immediate daytime main session escalation for human assist on doctor/remote/embed.
+- Pendings policy: >4 days static reps → auto-send main nudge 8AM-8PM (starting ClawVault/Mira Mesa).
