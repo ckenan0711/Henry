@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "vaultPath": "/Users/Henry/.openclaw/workspace",
-  "generatedAt": "2026-02-28T07:05:18.501Z",
+  "generatedAt": "2026-02-28T14:20:06.183Z",
   "files": {
     "AGENTS_ELEANOR.md": {
       "relativePath": "AGENTS_ELEANOR.md",
@@ -129,6 +129,24 @@
       ],
       "edges": []
     },
+    "daily/2026-02-28.md": {
+      "relativePath": "daily/2026-02-28.md",
+      "mtimeMs": 1772267840918.153,
+      "nodes": [
+        {
+          "id": "note:daily/2026-02-28",
+          "title": "2026-02-28",
+          "type": "daily",
+          "category": "daily",
+          "path": "daily/2026-02-28.md",
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-02-28T08:37:20.918Z"
+        }
+      ],
+      "edges": []
+    },
     "decisions/recall-process.md": {
       "relativePath": "decisions/recall-process.md",
       "mtimeMs": 1772260226225.0762,
@@ -233,6 +251,42 @@
           "missing": false,
           "degree": 0,
           "modifiedAt": "2026-02-28T06:51:25.567Z"
+        }
+      ],
+      "edges": []
+    },
+    "match/auto.md": {
+      "relativePath": "match/auto.md",
+      "mtimeMs": 1772276506865.8845,
+      "nodes": [
+        {
+          "id": "note:match/auto",
+          "title": "auto",
+          "type": "note",
+          "category": "note",
+          "path": "match/auto.md",
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-02-28T11:01:46.865Z"
+        }
+      ],
+      "edges": []
+    },
+    "memory/2026-02-28.md": {
+      "relativePath": "memory/2026-02-28.md",
+      "mtimeMs": 1772278630813.4744,
+      "nodes": [
+        {
+          "id": "note:memory/2026-02-28",
+          "title": "2026 02 28",
+          "type": "note",
+          "category": "note",
+          "path": "memory/2026-02-28.md",
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-02-28T11:37:10.813Z"
         }
       ],
       "edges": []
@@ -419,7 +473,7 @@
     },
     "self-review.md": {
       "relativePath": "self-review.md",
-      "mtimeMs": 1772258463592.1338,
+      "mtimeMs": 1772287347597.124,
       "nodes": [
         {
           "id": "note:self-review",
@@ -430,7 +484,7 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-02-28T06:01:03.592Z"
+          "modifiedAt": "2026-02-28T14:02:27.597Z"
         }
       ],
       "edges": []
@@ -769,6 +823,17 @@
         "modifiedAt": "2026-02-28T06:36:26.584Z"
       },
       {
+        "id": "note:daily/2026-02-28",
+        "title": "2026-02-28",
+        "type": "daily",
+        "category": "daily",
+        "path": "daily/2026-02-28.md",
+        "tags": [],
+        "missing": false,
+        "degree": 0,
+        "modifiedAt": "2026-02-28T08:37:20.918Z"
+      },
+      {
         "id": "note:decisions/recall-process",
         "title": "Recall Process",
         "type": "decision",
@@ -833,6 +898,28 @@
         "missing": false,
         "degree": 0,
         "modifiedAt": "2026-02-28T06:51:25.567Z"
+      },
+      {
+        "id": "note:match/auto",
+        "title": "auto",
+        "type": "note",
+        "category": "note",
+        "path": "match/auto.md",
+        "tags": [],
+        "missing": false,
+        "degree": 0,
+        "modifiedAt": "2026-02-28T11:01:46.865Z"
+      },
+      {
+        "id": "note:memory/2026-02-28",
+        "title": "2026 02 28",
+        "type": "note",
+        "category": "note",
+        "path": "memory/2026-02-28.md",
+        "tags": [],
+        "missing": false,
+        "degree": 0,
+        "modifiedAt": "2026-02-28T11:37:10.813Z"
       },
       {
         "id": "note:people/komp-region",
@@ -953,7 +1040,7 @@
         "tags": [],
         "missing": false,
         "degree": 0,
-        "modifiedAt": "2026-02-28T06:01:03.592Z"
+        "modifiedAt": "2026-02-28T14:02:27.597Z"
       },
       {
         "id": "note:skills/gog/SKILL",
@@ -1119,12 +1206,12 @@
       }
     ],
     "stats": {
-      "generatedAt": "2026-02-28T07:05:18.501Z",
-      "nodeCount": 38,
+      "generatedAt": "2026-02-28T14:20:06.183Z",
+      "nodeCount": 41,
       "edgeCount": 1,
       "nodeTypeCounts": {
-        "note": 27,
-        "daily": 2,
+        "note": 29,
+        "daily": 3,
         "decision": 1,
         "lesson": 2,
         "person": 5,

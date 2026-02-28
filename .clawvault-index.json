@@ -5,11 +5,11 @@
       "path": "/Users/Henry/.openclaw/workspace/self-review.md",
       "category": "root",
       "title": "self-review",
-      "content": "# Self-Reviews\\n\\n## 2026-02-27 10PM\\n\\n**Key actions:** Logged Komp lesson on improving subagent discovery via proactive agents_*.md scanning. Inspected ClawVault daily entries.\\n\\n**Decisions:** Stored lesson 'Agent File Discovery' in ClawVault. Suggest pattern-matching filenames in hierarchy for updates.\\n\\n**TK changes:** None.\\n\\n**Mistakes:** None observed. No dashes.\\n\\n**Confidence:** High on tool usage and memory retrieval.\\n\\n**Lessons:** Enhance subagent discovery by auto-scanning agent files.\\n",
+      "content": "# Self-Reviews\n\n## 2026-02-27 10PM\n\n**Key actions:** Logged Komp lesson on improving subagent discovery via proactive agents_*.md scanning. Inspected ClawVault daily entries.\n\n**Decisions:** Stored lesson 'Agent File Discovery' in ClawVault. Suggest pattern-matching filenames in hierarchy for updates.\n\n**TK changes:** None.\n\n**Mistakes:** None observed. No dashes.\n\n**Confidence:** High on tool usage and memory retrieval.\n\n**Lessons:** Enhance subagent discovery by auto-scanning agent files.\n\n## 2026-02-28 6AM\n\n**Key actions:** Routine heartbeats from 12AM to 3AM checked calendar and Gmail clean, confirmed legacy memory/2026-02-27 absent (ClawVault primary), session status, stable pendings.\n\n**Decisions:** None new. Pending: ClawVault doctor/remote/embed, Mira diesel 9AM APNs, Pacoima/Home backlog, firewall/Library opt.\n\n**TK changes:** TK-0 across all heartbeats.\n\n**Mistakes:** None. Dash-free.\n\n**Confidence:** High on automated monitoring outputs.\n\n**Lessons:** Overnight idle and stable. ClawVault vault health warning: no checkpoint, git dirty (6 changes); recommend clawvault doctor.",
       "frontmatter": {},
       "links": [],
       "tags": [],
-      "modified": "2026-02-28T06:01:03.592Z"
+      "modified": "2026-02-28T14:02:27.597Z"
     },
     {
       "id": "USER",
@@ -691,34 +691,15 @@
       "modified": "2026-02-28T06:10:52.971Z"
     },
     {
-      "id": "lessons/reminder-attendees",
-      "path": "/Users/Henry/.openclaw/workspace/lessons/reminder-attendees.md",
-      "category": "lessons",
-      "title": "Reminder attendees",
-      "content": "\n",
-      "frontmatter": {
-        "title": "Reminder attendees",
-        "date": "2026-02-28",
-        "memoryType": "lesson"
-      },
+      "id": "memory/2026-02-28",
+      "path": "/Users/Henry/.openclaw/workspace/memory/2026-02-28.md",
+      "category": "memory",
+      "title": "2026-02-28",
+      "content": "# memory/2026-02-28.md (Sat Feb 28 2026)\\n\\n## [01:07] Heartbeat\\n- Status: idle late night (1:07AM past bedtime, low noise)\\n- Key observations/decisions: New Sat. Cal next4h clean (Wally bday all-day starts, Mira diesel9AM). Gmail zero unread/imp <2h. Yesterday memory ENOENT (ClawVault primary?). No urgent/email/cal/system.\\n- Tools used/actions: read 28(new miss)/27(miss), gog cal overnight empty/gmail clean, session_status Sat1:07AM tokens74k/993 cache50%.\\n- Pending from last: ClawVault doctor/remote/embed, Mira Mesa diesel9AM APNs?, Pacoima/Home backlog, opt firewall/Library.\\n\\nDash-free. TK-0.\\n\\n## [01:37] Heartbeat\\n- Status: idle late night (1:37AM past bedtime, low noise)\\n- Key observations/decisions: 30min follow-up new Sat. Cal next4h clean (Wally/Mira diesel9AM). Gmail priors zero recent. memory/27 gone (ClawVault shift?). No urgent/email/cal/system.\\n- Tools used/actions: read 28(01:07 clean)/27 miss, session_status Sat1:37AM.\\n- Pending from last: ClawVault doctor/remote, Mira diesel9AM APNs?, Pacoima/Home backlog, opt firewall/Library.\\n\\nDash-free. TK-0.\\n\\n## [03:37] Heartbeat\\n- Status: idle late night (3:37AM past bedtime, low noise)\\n- Key observations/decisions: 2h follow-up Sat overnight. Cal next4h clean (Wally bday). memory/27 gone ClawVault. No urgent/email/cal/system.\\n- Tools used/actions: read 28(01:37 clean).\\n- Pending from last: ClawVault doctor/remote, Mira diesel9AM APNs?, Pacoima/Home backlog, opt firewall/Library.\\n\\nDash-free. TK-0.",
+      "frontmatter": {},
       "links": [],
       "tags": [],
-      "modified": "2026-02-28T06:51:25.567Z"
-    },
-    {
-      "id": "lessons/clawvault-people-linking",
-      "path": "/Users/Henry/.openclaw/workspace/lessons/clawvault-people-linking.md",
-      "category": "lessons",
-      "title": "ClawVault people linking",
-      "content": "\n",
-      "frontmatter": {
-        "title": "ClawVault people linking",
-        "date": "2026-02-28",
-        "memoryType": "lesson"
-      },
-      "links": [],
-      "tags": [],
-      "modified": "2026-02-28T06:22:03.117Z"
+      "modified": "2026-02-28T11:37:10.813Z"
     },
     {
       "id": "lesson/agent-file-discovery",
@@ -750,6 +731,50 @@
       "modified": "2026-02-28T06:30:26.225Z"
     },
     {
+      "id": "lessons/reminder-attendees",
+      "path": "/Users/Henry/.openclaw/workspace/lessons/reminder-attendees.md",
+      "category": "lessons",
+      "title": "Reminder attendees",
+      "content": "\n",
+      "frontmatter": {
+        "title": "Reminder attendees",
+        "date": "2026-02-28",
+        "memoryType": "lesson"
+      },
+      "links": [],
+      "tags": [],
+      "modified": "2026-02-28T06:51:25.567Z"
+    },
+    {
+      "id": "lessons/clawvault-people-linking",
+      "path": "/Users/Henry/.openclaw/workspace/lessons/clawvault-people-linking.md",
+      "category": "lessons",
+      "title": "ClawVault people linking",
+      "content": "\n",
+      "frontmatter": {
+        "title": "ClawVault people linking",
+        "date": "2026-02-28",
+        "memoryType": "lesson"
+      },
+      "links": [],
+      "tags": [],
+      "modified": "2026-02-28T06:22:03.117Z"
+    },
+    {
+      "id": "daily/2026-02-28",
+      "path": "/Users/Henry/.openclaw/workspace/daily/2026-02-28.md",
+      "category": "daily",
+      "title": "2026-02-28",
+      "content": "## [00:07] Heartbeat - Status: idle late night new day (12:07AM past bedtime low noise) - Obs: memory dailies missing (ClawVault primary), priors clean evening, cal Wally all-day/Mira diesel9AM tomorrow no overnight urgent. - Tools: session_status Sat12:07AM tokens36k cache0%. - Pending: ClawVault doctor/remote, Mira APNs etc static. Dash-free TK0.\\n\\n## [00:37] Heartbeat - Status: idle late night (12:37AM past bedtime low noise) - Obs: dailies ClawVault primary (legacy deleted), cal next4h overnight clean (Wally all-day/Mira9AM). Gmail priors zero recent. No urgent/email/system. - Tools: read daily/28(00:07 clean)/27(pref). - Pending: ClawVault doctor/remote, Mira APNs static.\n",
+      "frontmatter": {
+        "title": "2026-02-28",
+        "date": "2026-02-28"
+      },
+      "links": [],
+      "tags": [],
+      "modified": "2026-02-28T08:37:20.918Z"
+    },
+    {
       "id": "daily/2026-02-27",
       "path": "/Users/Henry/.openclaw/workspace/daily/2026-02-27.md",
       "category": "daily",
@@ -776,6 +801,20 @@
       "links": [],
       "tags": [],
       "modified": "2026-02-28T05:45:04.113Z"
+    },
+    {
+      "id": "match/auto",
+      "path": "/Users/Henry/.openclaw/workspace/match/auto.md",
+      "category": "match",
+      "title": "auto",
+      "content": "2026-02-28 recurring pendings from heartbeats/dailies: ClawVault doctor remote embed; Mira Mesa diesel 9AM APNs reminder; Pacoima/Home backlog; optional firewall/Library hardening.\n",
+      "frontmatter": {
+        "title": "auto",
+        "date": "2026-02-28"
+      },
+      "links": [],
+      "tags": [],
+      "modified": "2026-02-28T11:01:46.866Z"
     }
   ]
 }
